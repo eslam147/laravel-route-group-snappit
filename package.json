@@ -2,13 +2,8 @@
   "name": "laravel-route-group-snappit",
   "displayName": "laravel route group snappit",
   "description": "A collection of Laravel route group snippets",
-<<<<<<< HEAD
   "publisher": "laravelroutegroupsnappit",
   "version": "0.1.0",
-=======
-  "publisher": "laravel-route-group-snappit",
-  "version": "0.0.9",
->>>>>>> 759407f756180030c536416c5d06bc0102632c85
   "engines": {
     "vscode": "^1.95.0"
   },
