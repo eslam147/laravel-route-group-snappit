@@ -14,16 +14,12 @@ A collection of Laravel route snippets for Visual Studio Code.
 2. Right-click and select **Convert Routes** from the context menu or press **Ctrl+Alt+A** if you have a selection.
 3. The converted routes will replace the selected text.
 
-<<<<<<< HEAD
 ## Types of Routes
 
 - **routegroup**: Grouped route definitions to organize your routes.
 - **routebasic**: Basic single-route definitions.
 - **routecontroller**: Controller-based route definitions for organized routing.
 
-
-=======
->>>>>>> 759407f756180030c536416c5d06bc0102632c85
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
