@@ -4,7 +4,11 @@
   "recommendations": [
     "dbaeumer.vscode-eslint",
     "connor4312.esbuild-problem-matchers",
+<<<<<<< HEAD
     "ms-vscode.extension-test-runner",
     "laravelroutegroupsnappit.laravel-route-group-snappit"
+=======
+    "ms-vscode.extension-test-runner"
+>>>>>>> 759407f756180030c536416c5d06bc0102632c85
   ]
 }
